@@ -34,4 +34,4 @@ def process():
     
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='10.100.2.27',port=80)
+    app.run(host='10.100.2.27',port=5432)
