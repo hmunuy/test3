@@ -34,4 +34,4 @@ def process():
     
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='0.0.0.0',port=80)
+    app.run(host='node1428-chalermsit.app.ruk-com.cloud',port=80)
